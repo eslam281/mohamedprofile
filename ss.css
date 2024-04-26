@@ -1,0 +1,17 @@
+h1{
+color: rgb(241, 245, 6);
+background-color: black;
+}
+*{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: black;
+
+}
+p{
+    color: #05cdd0;
+    text-align: right;
+}
+.about{
+    color: rgb(84, 220, 156);
+    text-decoration: ;
+}
