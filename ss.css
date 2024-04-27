@@ -13,5 +13,8 @@ p{
 }
 .about{
     color: rgb(84, 220, 156);
-    text-decoration: ;
+}
+button{
+    background-color:rgb(41, 4, 249);
+    width: min-content;
 }
